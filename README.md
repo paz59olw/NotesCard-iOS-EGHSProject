@@ -1,4 +1,4 @@
-# Welcome to the NotesCard App iOS Project!
+# Welcome to the FlashNote App iOS Project!
 
 This project is an illinois, Elk Grove High School Computer Science Competition Project!
 
