@@ -6,7 +6,7 @@ A little bit to know about the App:
 A Note Cards app that helps you organize your Notes for speeches and other things like memorization, it has the ability to add and remove notes, as well as rename them and of course reorganize them in folders with names so you can keep track of your work!
 
 
-
+# Version 0.5
 The Newest Version as of writing on may 13 2025, is Version 0.5
 This New Version Contains the Added Features and Corrected Errors
 
