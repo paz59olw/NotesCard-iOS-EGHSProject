@@ -30,5 +30,6 @@ What’s being worked on at the moment:
 Planned features:
 
 * import Notes from other note softwares
+* review wrong and right answers in quiz mode
 
 to Download Go to https://github.com/paz59olw/NotesCard-iOS-EGHSProject/releases/tag/V0.5
