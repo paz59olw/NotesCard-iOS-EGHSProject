@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# Welcome to the NotesCard App iOS Project!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This project is an illinois, Elk Grove High School Computer Science Competiotion Project!
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+A little bit to know about the App:
+A Note Cards app that helps you organize your Notes for speeches and other things like memorization, it has the ability to add and remove notes, as well as rename them and of course reorganize them in folders with names so you can keep track of your work!
